@@ -1,5 +1,5 @@
 # alfaandroid_repository
-This contains basically  Android source code
+This contains basically Android Java source code
  Simple Audio Player
  -This is an app that plays music and allows for the rewind , fast forward ,
  play and pause functionalities thus enabling for easier audio 
